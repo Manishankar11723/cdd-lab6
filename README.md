@@ -1,1 +1,1 @@
-# cdd-lab6
+[![Build and Test](https://github.com/Manishankar11723/cdd-lab6/actions/workflows/ci.yml/badge.svg)](https://github.com/Manishankar11723/cdd-lab6/actions/workflows/ci.yml)
